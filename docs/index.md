@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
+  name: "落樱湖"
+  text: "落樱湖——mc长期生存服务器"
   tagline: My great project tagline
   actions:
     - theme: brand
